@@ -1,5 +1,5 @@
 {
-    "english": "https://rawgit.com/Noceutempao/iBot/master/en.json",
-    "portuguese": "https://rawgit.com/Noceutempao/iBot/master/pt.json",
-    "french": "https://rawgit.com/Noceutempao/iBot/master/fr.json"
+    "english": "https://cdn.jsdelivr.net/gh/Noceutempao/iBot/en.json",
+    "portuguese": "https://cdn.jsdelivr.net/gh/Noceutempao/iBot/pt.json",
+    "french": "https://cdn.jsdelivr.net/gh/Noceutempao/iBot/fr.json"
 }
